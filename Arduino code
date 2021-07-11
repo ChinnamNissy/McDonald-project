@@ -1,3 +1,5 @@
+images.githubusercontent.com/69066316/125192306-d00c3500-e264-11eb-9d65-1277a080c484.png)
+
 #include <Servo.h>
 
 #include <IRremote.h>
@@ -128,8 +130,7 @@ void loop()
    
 }
 
-
-  
-    
+ 
+   
 
 
